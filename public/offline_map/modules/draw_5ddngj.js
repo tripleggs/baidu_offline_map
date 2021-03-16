@@ -1,0 +1,1 @@
+/**/_jsload2&&_jsload2('draw', 'function ch(){}var dh=ch.prototype;dh.JF=t();dh.Fo=function(){ca("addLine\\u63a5\\u53e3\\u6ca1\\u6709\\u5b9e\\u73b0")};dh.setAttribute=function(){ca("setAttribute\\u63a5\\u53e3\\u6ca1\\u6709\\u5b9e\\u73b0")};dh.le=function(){ca("setPath\\u63a5\\u53e3\\u6ca1\\u6709\\u5b9e\\u73b0")};dh.op=v("Lb");z.mz=ch; ');
